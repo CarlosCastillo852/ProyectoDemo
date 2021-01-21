@@ -1,0 +1,81 @@
+--2021-01-13 22:29:18--  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Resolving update.code.visualstudio.com (update.code.visualstudio.com)... 104.42.78.153
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:29:52--  (try: 2)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:30:26--  (try: 3)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:31:01--  (try: 4)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:31:37--  (try: 5)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:32:15--  (try: 6)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:32:53--  (try: 7)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:33:32--  (try: 8)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:34:12--  (try: 9)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:34:53--  (try:10)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:35:35--  (try:11)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:36:18--  (try:12)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:37:00--  (try:13)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:37:42--  (try:14)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:38:24--  (try:15)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:39:07--  (try:16)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:39:49--  (try:17)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:40:31--  (try:18)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:41:13--  (try:19)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Retrying.
+
+--2021-01-13 22:41:56--  (try:20)  https://update.code.visualstudio.com/commit:ea3859d4ba2f3e577a159bc91e3074c5d85c0523/server-linux-x64/stable
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection timed out.
+Giving up.
+
